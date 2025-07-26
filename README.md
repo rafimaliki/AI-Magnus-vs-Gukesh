@@ -1,7 +1,8 @@
 # AI Magnus vs Gukesh
 > Task Seleksi Lab IRK created by Rafi
 
-versi **26/07/2025**
+versi **26/07/2025** </br>
+Revisi 1 - 26/07/2025: tambahan spek bonus (no. 8)
 
 ## 💡 Latar Belakang
 
@@ -115,6 +116,7 @@ e5
 | 5   | Bisa memilih piece promosi | 300        |
 | 6   | Kreativitas lainnya      | ???          |
 | 7   | Perkenalan di grup line seleksi dengan menyertakan zodiak   |     10         |
+| 8   | Menjawab salam/selamat pagi | 10 |
 |     | **Demo**                 |              |
 | 1   | Demo sinkronus (zoom/gmeet), asisten bisa meminta demo asinkronus (video) jika waktu tidak memungkinkan | 300 |
 |     | **Total**                | **2800+**    |
